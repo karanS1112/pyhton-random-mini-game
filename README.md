@@ -10,6 +10,6 @@ A simple CLI number guessing game built with Python. Try to guess the secret num
 
 ## 🚀 How to Run
 ```bash
-python3 Project.py
+python3 randomPasswordGuess
 ```
 
